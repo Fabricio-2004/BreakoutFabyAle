@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fabricio\\Desktop\\BreakoutFabyAle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5233B118-FA8F-6D1C-B2B8-6338AFA07E12}|Assembly-CSharp.csproj|C:\\Users\\Fabricio\\Desktop\\BreakoutFabyAle\\assets\\scripts\\fuerajuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5233B118-FA8F-6D1C-B2B8-6338AFA07E12}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fuerajuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5233B118-FA8F-6D1C-B2B8-6338AFA07E12}|Assembly-CSharp.csproj|C:\\Users\\Fabricio\\Desktop\\BreakoutFabyAle\\assets\\scripts\\irajuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5233B118-FA8F-6D1C-B2B8-6338AFA07E12}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\irajuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5233B118-FA8F-6D1C-B2B8-6338AFA07E12}|Assembly-CSharp.csproj|C:\\Users\\Fabricio\\Desktop\\BreakoutFabyAle\\assets\\scripts\\bloque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5233B118-FA8F-6D1C-B2B8-6338AFA07E12}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bloque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5233B118-FA8F-6D1C-B2B8-6338AFA07E12}|Assembly-CSharp.csproj|C:\\Users\\Fabricio\\Desktop\\BreakoutFabyAle\\assets\\scripts\\dise\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5233B118-FA8F-6D1C-B2B8-6338AFA07E12}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dise\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5233B118-FA8F-6D1C-B2B8-6338AFA07E12}|Assembly-CSharp.csproj|C:\\Users\\Fabricio\\Desktop\\BreakoutFabyAle\\assets\\scripts\\paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5233B118-FA8F-6D1C-B2B8-6338AFA07E12}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IrAJuego.cs",
+              "DocumentMoniker": "C:\\Users\\Fabricio\\Desktop\\BreakoutFabyAle\\Assets\\Scripts\\IrAJuego.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IrAJuego.cs",
+              "ToolTip": "C:\\Users\\Fabricio\\Desktop\\BreakoutFabyAle\\Assets\\Scripts\\IrAJuego.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IrAJuego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:26:49.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dise\u00F1o.cs",
+              "DocumentMoniker": "C:\\Users\\Fabricio\\Desktop\\BreakoutFabyAle\\Assets\\Scripts\\Dise\u00F1o.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dise\u00F1o.cs",
+              "ToolTip": "C:\\Users\\Fabricio\\Desktop\\BreakoutFabyAle\\Assets\\Scripts\\Dise\u00F1o.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dise\u00F1o.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:29:18.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bloque.cs",
+              "DocumentMoniker": "C:\\Users\\Fabricio\\Desktop\\BreakoutFabyAle\\Assets\\Scripts\\Bloque.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bloque.cs",
+              "ToolTip": "C:\\Users\\Fabricio\\Desktop\\BreakoutFabyAle\\Assets\\Scripts\\Bloque.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bloque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:12:22.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FueraJuego.cs",
+              "DocumentMoniker": "C:\\Users\\Fabricio\\Desktop\\BreakoutFabyAle\\Assets\\Scripts\\FueraJuego.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FueraJuego.cs",
+              "ToolTip": "C:\\Users\\Fabricio\\Desktop\\BreakoutFabyAle\\Assets\\Scripts\\FueraJuego.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FueraJuego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:04:44.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Paddle.cs",
+              "DocumentMoniker": "C:\\Users\\Fabricio\\Desktop\\BreakoutFabyAle\\Assets\\Scripts\\Paddle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Paddle.cs",
+              "ToolTip": "C:\\Users\\Fabricio\\Desktop\\BreakoutFabyAle\\Assets\\Scripts\\Paddle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Paddle.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:53:43.812Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
